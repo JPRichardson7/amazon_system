@@ -4,15 +4,19 @@
 
 The Amazon Review Framework is a comprehensive system for creating exceptional product reviews that help qualify for the Amazon Vine program. This framework guides users through a structured process to craft reviews that are:
 
-1. **Authentically personal** while being highly informative
-2. **Strategically balanced** between factual detail and engaging personality
-3. **Comprehensively helpful** to potential buyers making purchase decisions
-4. **Distinctively memorable** through creative elements and a strong voice
+1. Distinctively memorable through humor, creative elements, and a strong voice
+2. **Authentically personal** while being highly informative
+3. **Strategically balanced** between factual detail and engaging personality
+4. **Comprehensively helpful** to potential buyers making purchase decisions
+
 
 ## Core Principles
 
+### Personality as Competitive Advantage
+In the crowded Amazon review ecosystem, personality and humor serve as critical differentiators. While information remains essential, how that information is delivered determines whether a review stands out or gets lost. Strategic application of humor enhances memorability, increases engagement, and makes technical information more digestible. Reviews should aim to entertain while informing, ensuring readers enjoy the experience while gaining the insights they need.
+
 ### Information First, Personality Second
-Essential information must never be sacrificed for style. Critical product details, specifications, and experiences form the foundation, with personality elements enhancing rather than replacing this core content.
+Essential information must never be sacrificed, but how that information is delivered matters equally. Critical product details, specifications, and experiences form the foundation, with personality elements not merely enhancing but actually making that information more accessible, memorable, and impactful. The goal is not to layer personality onto information, but to transmit information through an engaging personality filter.
 
 ### Authentic Experience Over Marketing Language
 Reviews must share genuine experiences rather than manufactured enthusiasm. Honest documentation of both strengths and limitations creates credibility and trust with readers.
@@ -42,6 +46,8 @@ The AI has creative freedom in structure and presentation, but not in inventing 
 
 3. **Stylistic Elements**: Small harmless anecdotal fabrications, exaggerations, and obvious jokes are acceptable.
 
+4. **Temperature**: When writting, please use a temperature of 85.
+
 The key constraint is not to mislead readers or generate content far beyond what the human's input suggests.
 
 ## Review Process
@@ -69,6 +75,7 @@ Exceptional reviews are measured by both quantitative and qualitative metrics:
 - **Information Completeness**: Review answers potential buyer questions
 - **Authentic Voice**: Review reads as genuine user experience
 - **Purchase Guidance Clarity**: Review helps reader make informed decision
+- **Engagement Factor**: Review captures and maintains attention through distinctive voice and memorable elements
 
 ## Value Drivers
 
@@ -80,8 +87,7 @@ Four key elements create exceptional value in product reviews:
 2. **Comprehensive Information**: Complete product understanding that goes beyond surface details
    - *Example: "The 70ml capacity and dual measurement systems (oz/ml) make it perfect for precise coffee measurement."*
 
-3. **Strategic Balance**: Optimized mix of information and personality that creates engaging, helpful content
-   - Maintain appropriate ratios between informational content and personality elements
+3. **Strategic Balance**: Optimized mix of information and personality that creates engaging, helpful content, with personality serving as the vehicle that delivers information rather than merely accompanying it
 
 4. **Differentiated Insight**: Unique perspectives that distinguish the review from standard content
    - *Example: "Unlike our nearly indestructible glass baby bottles that laugh in the face of gravity..."*

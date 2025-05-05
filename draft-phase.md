@@ -151,8 +151,9 @@ Framework for balancing informational content and personality in reviews:
 - 50% personality elements
 - 5% flexibility
 
-### Personality Minimum
-At least one creative element per paragraph
+### Personality Density
+- There should be atleast one creative element per paragraph.
+- Humor should be strategically concentrated at the beginning (to hook readers) and end (to leave a positive impression) of reviews, with consistent personality throughout.
 
 
 ### Section-Specific Adjustments
@@ -163,8 +164,6 @@ At least one creative element per paragraph
 - **Conclusion/Verdict Content**: +5% personality
 
 ### Implementation Techniques
-
-
 
 #### Front Loading
 Always place essential information FIRST in every sentence or list item

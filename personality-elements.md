@@ -45,6 +45,7 @@ Deliberate overstatement that's clearly comedic but makes a valid point
 
 **Best for**: Products with genuinely impressive features that invite playful exaggeration
 
+**Causion**: Don't use exageration to describe negetive attribute of products. 
 #### Relatable Frustrations
 Humor that acknowledges common pain points with a wry perspective
 
@@ -95,7 +96,7 @@ Suitable approaches:
 
 **Example**: "Touch controls stop working with cold fingers (discovered during a frosty morning run where I looked like I was aggressively pantomiming to invisible friends)"
 
-**Note**: Limit humor to 30-40% of list items, focusing on those where it adds value
+**Note**: Limit humor to 30-50% of list items, focusing on those where it adds value
 
 #### Verdict
 Suitable approaches:
