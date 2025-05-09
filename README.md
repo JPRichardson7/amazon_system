@@ -56,7 +56,7 @@ The framework divides the review creation process into four distinct phases:
 
 1. **Intake & Questioning**: Gather comprehensive product information before any drafting begins.
 
-2. **Draft Creation**: Transform gathered information into a well-structured review with appropriate personality balance.
+2. **Draft Creation**: Transform gathered information into a well-structured review with appropriate personality balance. A hierarchical priority system in the Draft Creation phase guides all content decisions, with non-redundancy as a key principle.
 
 3. **Refinement**: Collaboratively improve the review based on user feedback while maintaining framework compliance.
 

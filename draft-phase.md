@@ -7,7 +7,6 @@ The Draft Creation phase transforms gathered information into a well-structured 
 **Critical Requirement**: Complete all pre-writing planning before beginning the actual draft. Planning ensures consistent implementation of all framework elements.
 
 ## Objectives
-
 - Create a complete, polished review draft that reflects the gathered information
 - Apply appropriate structure and formatting for maximum readability
 - Balance informational content with engaging personality
@@ -16,33 +15,72 @@ The Draft Creation phase transforms gathered information into a well-structured 
 
 ## Pre-Writing Planning
 
-Essential preparation steps that must be completed before drafting begins:
+### Priority Hierarchy for Decision-Making
 
-1. **Select appropriate review structure based on product complexity**
-   - Choose from simple, standard, or complex structure templates
-   - Adapt section organization based on product category
-   - Identify product-specific sections that may be needed
+Before beginning content planning, consult this hierarchy of priorities to guide all decisions:
 
-2. **Determine personality/information balance targets for each section**
-   - Assign specific ratio targets to each planned section
-   - Adjust based on content purpose and product category
-   - Document targets to guide drafting
+1. **Information Accuracy**: Facts must be correct and authentic to experience
+   - Verify all technical specifications and claims
+   - Only include personally verified information
+   - Documentation of actual testing takes precedence over assumptions
 
-3. **Plan keyword placement throughout the review structure**
-   - Map primary keywords to high-impact locations
-   - Distribute secondary keywords across appropriate sections
-   - Plan natural integration of comparison and compatibility terms
+2. **Personality & Information Balance**: Distinctive voice with appropriate information ratio
+   - Each section maintains its designated personality-to-information ratio
+   - Front-load essential information, then add personality elements
+   - Creativity and humor serve as primary differentiators
+   - See section-specific ratios in "Information-Personality Balance" below
 
-4. **Select creative techniques appropriate for the product**
-   - Choose thematic approach if applicable
-   - Identify opportunities for narrative elements
-   - Plan sensory details to enhance product description
-   - Plan specific humor techniques for each section
+3. **Non-Redundancy**: Information should appear in a single optimal location
+   - Each piece of information belongs primarily in ONE section
+   - When planning content, assign each information point to its optimal section only
+   - Use the Information Placement Matrix below to determine optimal locations
 
-5. **Pre-select list items for personality enhancement**
-   - Identify which 30-40% of list items will receive enhancement
-   - Focus on the most distinctive or important features
-   - Plan enhancement style that complements each feature
+4. **Information Flow and Progression**: Content should follow logical sequence
+   - Information builds progressively through the review
+   - When information must be referenced in multiple sections, each mention adds new dimension
+   - Later mentions should elaborate on, not repeat, earlier points
+
+5. **Section Purpose Fulfillment**: Each section serves a specific function
+   - Focus on unique content that fulfills each section's defined purpose
+   - Refer to information covered elsewhere rather than repeating
+   - Consider omitting a section if it would be mostly redundant
+
+6. **Comprehensive Coverage**: All key product aspects addressed
+   - Completeness applies to the review as a whole, not each section
+   - Verify complete coverage in final review rather than section-by-section
+
+### Information Placement Matrix
+
+You're absolutely right - that formatting is difficult to read. Let me provide a cleaner, better-aligned version of the Information Placement Matrix:
+
+# Information Placement Matrix
+
+| Information Type    | Optimal Section     | Alternative Section    | Presentation in Optimal | Presentation if Referenced    |
+|---------------------|---------------------|------------------------|-------------------------|-------------------------------|
+| Product specs       | Technical Details   | Brief mention in Intro | Complete list           | Brief reference only          |
+| Performance data    | Experience/Usage    | Pros/Cons              | Detailed narrative      | Single bullet point           |
+| User experience     | Experience/Usage    | Intro                  | Narrative with context  | Brief summary                 |
+| Comparisons         | Pros/Cons           | Experience/Usage       | Structured list         | Consise contextual comparison |
+| Value assessment    | Verdict/Conclusion  | N/A                    | Complete analysis       | N/A                           |
+
+This cleaner format should be much easier to read and reference when making content decisions. The proper alignment helps clearly distinguish between the different columns and their relationships.
+
+### Redundancy Prevention Techniques
+
+When information seems relevant to multiple sections, use these techniques instead of repetition:
+
+1. **Brief Reference**: "As mentioned in the technical section, the battery life is impressive..."
+
+2. **New Dimension**: First mention covers facts, second mention covers implications
+   - Technical section: "The battery lasts 10 hours on a single charge"
+   - Experience section: "The 10-hour battery life meant I could work remotely without anxiety"
+
+3. **Context Shifting**: Same information viewed through different lens
+   - Technical: "At 2.5 pounds, it's lighter than competing models"
+   - Pros list: "Lightweight design (perfect for one-handed operation)"
+
+4. **Complete Omission**: If information is thoroughly covered elsewhere and adding nothing new, omit entirely
+
 
 ## Review Structure Guidance
 
