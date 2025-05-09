@@ -4,33 +4,85 @@
 
 Adaptable guidance for organizing review content based on product complexity:
 
+## Section Selection Decision Guide
+
+Use this decision guide to determine which sections to include in your review based on the specific product and information gathered.
+
+### Core Sections
+The following sections are typically included in most reviews:
+
+**Introduction/Hook**
+- ✅ Include for virtually all products to establish context and engagement
+- ❌ Consider minimal version only if product is extremely technical with no narrative potential
+
+**Experience/Usage**
+- ✅ Include for all products where actual usage experience exists
+- ❌ Consider minimal version only for products that are purely technical with no meaningful usage experience
+
+**Pros & Cons (Evaluation)**
+- ✅ Include for virtually all products to provide clear assessment
+- ❌ Consider integrating into other sections only if advantages/limitations are minimal
+
+**Conclusion/Verdict**
+- ✅ Include for virtually all products to provide clear recommendation
+- ❌ Consider minimal version only if verdict is extremely obvious from preceding sections
+
+### Conditional Sections
+The following sections should be selectively included based on specific criteria:
+
+**Technical Details**
+- ✅ Include if: Product has important specifications, materials, or performance metrics
+- ✅ Include if: Technical aspects significantly impact purchase decisions
+- ❌ Skip if: Product is extremely simple with few technical aspects worth mentioning
+- ❌ Skip if: Technical details are fully covered within experience narrative for very simple products
+
+**Audience/Ideal Users**
+- ✅ Include if: Product is well-suited for specific user groups but not others
+- ✅ Include if: Product has clear strengths for certain scenarios but weaknesses for others
+- ❌ Skip if: Product is universally applicable with no specific audience differentiation
+- ❌ Skip if: Ideal and non-ideal users are fully covered in pros/cons without needing elaboration
+
+**Practical Advice**
+- ✅ Include if: You've discovered non-obvious tips through extended use
+- ✅ Include if: Product has learning curve or special maintenance requirements
+- ✅ Include if: You've found workarounds for limitations
+- ❌ Skip if: Product is intuitive with no special insights to share
+- ❌ Skip if: Usage advice is completely covered in the experience narrative
+
+### Custom Sections
+Consider creating custom sections when standard options don't adequately address key product aspects:
+
+**When to create custom sections:**
+- ✅ Create when: A specific aspect is crucial to the purchase decision but doesn't fit well in standard sections
+- ✅ Create when: Grouping related information would significantly improve clarity
+- ✅ Create when: The product has unique characteristics that deserve focused attention
+
+**Examples of effective custom sections:**
+- Sound Quality (audio products)
+- Color & Finish Variations (aesthetic products)
+- Fit & Comfort (wearable products)
+- Installation Experience (products requiring setup)
+- Sustainability Features (eco-focused products)
+
+Use this decision guide during the planning phase to determine which sections will provide the most value for your specific product. Remember that including only relevant sections creates a more focused, helpful review than forcing content into unnecessary sections.
 ### Structure Principles
 
 - Structure serves the product experience, not the other way around
-- Adapt sections based on what matters most for the specific product
-- Include only sections that add genuine value to potential buyers
 - Organize content to prioritize what readers need most
 - Word count should reflect information value, not arbitrary targets
 
 ### Product Complexity Considerations
 
 #### Simpler Products
-- May require fewer sections with more focused content
-- Often benefit from highlighting specific use cases
 - Typically range from 800-900 words but can vary
 - Value often comes from depth of testing rather than breadth of features
 
 #### Moderate Complexity Products
-- Often benefit from a balance of experiential and technical content
-- May warrant dedicated sections for specific feature sets
 - Typically range from 900-1100 words but can vary
-- Usually benefit from clearly identified ideal use cases
 
 #### Complex Products
-- May require more detailed testing documentation
-- Often benefit from comparative analysis with alternatives
 - Typically range from 1100-1200 words but can vary
-- Usually warrant more extensive technical assessment
+
 
 ## Standard Section Types
 
@@ -121,6 +173,7 @@ Adaptable guidance for organizing review content based on product complexity:
 *"At $9 for two, they're solid tools for kitchen precision - just maybe keep one in a protective bunker as backup. Perfect for coffee enthusiasts, careful measurers, and anyone who's muttered \"but how much is a 'splash' exactly?\" while cooking."*
 
 ## Specialized Product Sections
+*Note: These sections are category-specific options to consider based on the product type. Refer to the Section Selection Decision Guide to determine if these specialized sections are necessary for your specific product.*
 
 ### Electronics/Tech Products
 **Power and Battery**: Runtime, charging specifications, power modes
@@ -143,6 +196,7 @@ Adaptable guidance for organizing review content based on product complexity:
 **Versatility**: Range of applications, adaptability to different tasks
 
 ## Section Sequencing
+When implementing any sequence, first refer to the Section Selection Decision Guide to determine which sections to include. The sequences below represent complete templates, but actual reviews should include only sections that add unique value for the specific product.
 
 ### Standard Sequence
 1. Introduction/Hook
